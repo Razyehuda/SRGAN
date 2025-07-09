@@ -283,7 +283,7 @@ python create_training_plots.py \
     --output_dir training_plots
 ```
 ## 👌 Example:
-![Model Comparison](images/showcase_image.png)
+![Model Comparison](images/image.png)
 ### Sample Images
 
 Training samples are saved in:
