@@ -282,8 +282,10 @@ python create_training_plots.py \
     --log_dir logs_v2 \
     --output_dir training_plots
 ```
-## 👌 Example:
+## 👌 Examples:
 ![Model Comparison](images/image.png)
+![Model Comparison](images/comparison_0801.png)
+![Model Comparison](images/comparison_0857.png)
 ### Sample Images
 
 Training samples are saved in:
