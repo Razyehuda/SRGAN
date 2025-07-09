@@ -63,7 +63,7 @@ SRGAN/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Razyehuda/SRGAN.git)
 cd SRGAN
 ```
 
@@ -283,7 +283,7 @@ python create_training_plots.py \
     --output_dir training_plots
 ```
 ## 👌 Example:
-!(images/showcase_image.png)
+![Model Comparison](images/showcase_image.png)
 ### Sample Images
 
 Training samples are saved in:
