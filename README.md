@@ -265,8 +265,8 @@ python compute_fid_scores.py \
 
 | Model | PSNR (dB) | SSIM | FID Score |
 |-------|------------|------|-----------|
-| Original SRGAN | ~28.5 | ~0.85 | ~15.2 |
-| SRGAN v2 | ~29.2 | ~0.87 | ~9.4 |
+| Original SRGAN | ~24.5 | ~0.664 | ~13.3 |
+| SRGAN v2 | ~24.95 | ~0.663 | ~9.43 |
 
 ### Training Curves
 
