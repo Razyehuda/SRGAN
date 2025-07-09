@@ -271,9 +271,10 @@ python compute_fid_scores.py \
 ![Model Comparison](images/model_comparison.png)
 
 ### Training Curves
-
-![Training Progress](images/training_curves.png)
-
+### FIRST MODEL
+![Training Progress](images/model_v1_logs.png)
+### SECOND MODEL
+![Training Progress](images/model_v2_logs.png)
 Generate training plots:
 
 ```bash
@@ -281,7 +282,8 @@ python create_training_plots.py \
     --log_dir logs_v2 \
     --output_dir training_plots
 ```
-
+## 👌 Example:
+![Example](images/showcase image.png)
 ### Sample Images
 
 Training samples are saved in:
