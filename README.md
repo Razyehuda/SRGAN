@@ -63,7 +63,7 @@ SRGAN/
 
 1. **Clone the repository:**
 ```bash
-git clone [<repository-url>](https://github.com/Razyehuda/SRGAN.git)
+git clone https://github.com/Razyehuda/SRGAN.git
 cd SRGAN
 ```
 
