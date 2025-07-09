@@ -286,6 +286,7 @@ python create_training_plots.py \
 ![Model Comparison](images/image.png)
 ![Model Comparison](images/comparison_0802.png)
 ![Model Comparison](images/comparison_0858.png)
+![Model Comparison]("test pictures"/SR_output.png)
 ### Sample Images
 
 Training samples are saved in:
