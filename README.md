@@ -284,8 +284,8 @@ python create_training_plots.py \
 ```
 ## 👌 Examples:
 ![Model Comparison](images/image.png)
-![Model Comparison](images/comparison_0801.png)
-![Model Comparison](images/comparison_0857.png)
+![Model Comparison](images/comparison_0802.png)
+![Model Comparison](images/comparison_0858.png)
 ### Sample Images
 
 Training samples are saved in:
