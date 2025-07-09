@@ -381,7 +381,7 @@ This project is licensed under the MIT License
 - Original SRGAN paper: "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"
 - DIV2K dataset for training and evaluation
 - PyTorch community for the deep learning framework
-
+- Deep Learning and its Applications to Signal and Image Processing and Analysis Course staff.
 ---
 
 For detailed testing procedures, see [TESTING_README.md](TESTING_README.md). 
