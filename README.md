@@ -287,6 +287,15 @@ python create_training_plots.py \
 ![Model Comparison](images/comparison_0802.png)
 ![Model Comparison](images/comparison_0858.png)
 ![Model Comparison](test%20picutres/sr_output_comparison.jpg)
+
+
+## Zoomed in Examples to see the difference:
+![Model Comparison](images/example1.png)
+![Model Comparison](images/example2.png)
+![Model Comparison](images/example3.png)
+![Model Comparison](images/example4.png)
+
+
 ### Sample Images
 
 Training samples are saved in:
