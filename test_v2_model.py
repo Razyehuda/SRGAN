@@ -18,8 +18,8 @@ from data.dataset import create_data_loaders
 from losses_v2 import calculate_psnr, calculate_ssim
 
 # Default validation HR directory from training
-DEFAULT_VAL_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_valid_HR/DIV2K_valid_HR"
-
+#DEFAULT_VAL_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_valid_HR/DIV2K_valid_HR"
+DEFAULT_VAL_HR = "/DIV2K_valid_HR/DIV2K_valid_HR"
 def load_v2_model(checkpoint_path, device, num_residual_blocks=23, base_channels=64):
     """Load the trained SRGAN generator from train_v2 checkpoint."""
     # Create generator with same parameters as training
