@@ -16,8 +16,10 @@ from data.dataset import create_data_loaders
 from utils.losses import SRGANLoss, DiscriminatorLoss, calculate_psnr, calculate_ssim
 
 # Default paths for the DIV2K dataset in the KaggleHub cache
-DEFAULT_TRAIN_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_train_HR/DIV2K_train_HR"
-DEFAULT_VAL_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_valid_HR/DIV2K_valid_HR"
+#DEFAULT_TRAIN_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_train_HR/DIV2K_train_HR"
+#DEFAULT_VAL_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_valid_HR/DIV2K_valid_HR"
+DEFAULT_TRAIN_HR = "/DIV2K_train_HR/DIV2K_train_HR"
+DEFAULT_VAL_HR = "/DIV2K_valid_HR/DIV2K_valid_HR"
 
 class SRGANTrainer:
     """SRGAN trainer class."""
