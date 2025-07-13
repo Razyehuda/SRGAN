@@ -17,8 +17,8 @@ from losses_v2 import SRGANLossV2, DiscriminatorLossV2, calculate_psnr, calculat
 # Default paths
 #DEFAULT_TRAIN_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_train_HR/DIV2K_train_HR"
 #DEFAULT_VAL_HR = r"C:/Users/Razye/.cache/kagglehub/datasets/joe1995/div2k-dataset/versions/1/DIV2K_valid_HR/DIV2K_valid_HR"
-DEFAULT_TRAIN_HR = "/DIV2K_train_HR/DIV2K_train_HR"
-DEFAULT_VAL_HR = "/DIV2K_valid_HR/DIV2K_valid_HR"
+DEFAULT_TRAIN_HR = "DIV2K_train_HR/DIV2K_train_HR"
+DEFAULT_VAL_HR = "DIV2K_valid_HR/DIV2K_valid_HR"
 class SRGANTrainerV2:
     def __init__(self, config):
         self.config = config
